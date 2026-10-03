@@ -1,0 +1,7 @@
+.env
+.venv/
+intelligence.log
+__pycache__/
+*.pyc
+.DS_Store
+``
